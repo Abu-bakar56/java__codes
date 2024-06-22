@@ -5,7 +5,6 @@ public class board {
         int b;
         int c , d ,f;
         Scanner se = new Scanner(System.in);
-        System.out.println("enter the number of subject 1");
         a=se.nextInt();
         System.out.println("enter the number of subject 2");
         b=se.nextInt();
