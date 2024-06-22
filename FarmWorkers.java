@@ -7,6 +7,7 @@ class Dog extends Animal{
     @Override
     public void eats(){
         System.out.println("Dog eats dog food");
+        System.out.println(""sdfs);
     }
 }
 
